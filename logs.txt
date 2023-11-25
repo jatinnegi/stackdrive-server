@@ -1,0 +1,15 @@
+{"expiredAt":"2023-11-25T05:24:19.000Z","level":"error","message":"jwt expired","name":"TokenExpiredError","timestamp":"2023-11-25 10:55:23"}
+{"expiredAt":"2023-11-25T05:24:19.000Z","level":"error","message":"jwt expired","name":"TokenExpiredError","timestamp":"2023-11-25 10:55:26"}
+{"expiredAt":"2023-11-25T05:24:19.000Z","level":"error","message":"jwt expired","name":"TokenExpiredError","timestamp":"2023-11-25 10:55:36"}
+{"expiredAt":"2023-11-25T05:24:19.000Z","level":"error","message":"jwt expired","name":"TokenExpiredError","timestamp":"2023-11-25 10:55:56"}
+{"expiredAt":"2023-11-25T05:24:19.000Z","level":"error","message":"jwt expired","name":"TokenExpiredError","timestamp":"2023-11-25 10:56:43"}
+{"expiredAt":"2023-11-25T05:24:19.000Z","level":"error","message":"jwt expired","name":"TokenExpiredError","timestamp":"2023-11-25 10:56:54"}
+{"expiredAt":"2023-11-25T05:24:19.000Z","level":"error","message":"jwt expired","name":"TokenExpiredError","timestamp":"2023-11-25 10:59:25"}
+{"expiredAt":"2023-11-25T05:24:19.000Z","level":"error","message":"jwt expired","name":"TokenExpiredError","timestamp":"2023-11-25 11:00:02"}
+{"expiredAt":"2023-11-25T05:24:19.000Z","level":"error","message":"jwt expired","name":"TokenExpiredError","timestamp":"2023-11-25 11:00:49"}
+{"expiredAt":"2023-11-25T05:24:19.000Z","level":"error","message":"jwt expired","name":"TokenExpiredError","timestamp":"2023-11-25 11:01:07"}
+{"expiredAt":"2023-11-25T05:24:19.000Z","level":"error","message":"jwt expired","name":"TokenExpiredError","timestamp":"2023-11-25 11:01:37"}
+{"expiredAt":"2023-11-25T05:24:19.000Z","level":"error","message":"jwt expired","name":"TokenExpiredError","timestamp":"2023-11-25 11:01:54"}
+{"code":"ENOENT","errno":-4058,"level":"error","path":"C:\\Users\\jatin\\dev\\server/storage/public/656181b515fc73c05deffdc4undefined","syscall":"mkdir","timestamp":"2023-11-25 11:08:41"}
+{"code":"ENOENT","errno":-4058,"level":"error","path":"C:\\Users\\jatin\\dev\\server/storage/public/656181b515fc73c05deffdc4undefined","syscall":"mkdir","timestamp":"2023-11-25 11:09:12"}
+{"code":"ENOENT","errno":-4058,"level":"error","path":"C:\\Users\\jatin\\dev\\server/storage/public/656181b515fc73c05deffdc4","syscall":"mkdir","timestamp":"2023-11-25 11:10:02"}
