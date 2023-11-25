@@ -69,11 +69,9 @@ export const filesController = {
         : false;
 
       const workspacePath = req.query.workspace
-        .replace(/#/g, "/")
+        .replace(/\*/g, "/")
         .replace(/%20/g, " ")
         .replace(/%40/g, "@");
-
-      console.log(workspacePath);
 
       if (!req.files)
         return res
