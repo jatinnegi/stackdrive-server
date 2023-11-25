@@ -1,7 +1,6 @@
 FROM node:latest
 
 COPY package*.json ./
-COPY storage ./
 
 RUN npm install
 
